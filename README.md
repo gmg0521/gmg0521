@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gmg0521, 안녕하세요 박예섬입니다 🤗
 - 👀 I’m interested in Unity, Android Programming and Front-end
-- 🌱 I’m currently learning Vue and Kotiln
+- 🌱 I’m currently learning Dart and Spring
 - 📫 How to reach me
   - e-mail : sinsu4@gmail.com
   - Blog : Github blog will coming soon...!
